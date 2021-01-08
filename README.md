@@ -4,7 +4,7 @@ I'm a developer who likes to work with Javascript 🤓
 
 Check:
 
-🎮 [TikiJuegos](http://tikijuegos.herokuapp.com/)
+🎮 [TikiJuegos](https://tikijuegos.netlify.app/)
 
 ❤️ [My website](http://alejandrosobko.com/)
 
